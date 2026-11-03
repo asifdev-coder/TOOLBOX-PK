@@ -1,0 +1,6 @@
+{
+  "name": "ToolBox PK",
+  "description": "155+ Free Online & Offline Tools — All in One Place. Images, PDFs, text, developer tools, calculators, student utilities, SEO & marketing, QR & design, and file tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
